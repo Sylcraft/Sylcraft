@@ -1,16 +1,21 @@
-## Hi there 👋
+# Bonjour, moi c'est Sylvain !
 
-<!--
-**Sylcraft/Sylcraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Développeur & créatif numérique**  
+*Code • Design • Illustration • 3D • Intelligence artificielle*
 
-Here are some ideas to get you started:
+Je m'intéresse à la rencontre entre technologie, création et résolution de problèmes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mon parcours en développement m'a permis de travailler sur des applications web, des API et des bases de données. En parallèle, je cultive une pratique artistique autour du dessin, du design et de la 3D.
+
+### Ma manière de travailler
+
+J'intègre l'intelligence artificielle et l'automatisation dans mon processus de développement pour gagner en efficacité, accélérer les expérimentations et me concentrer sur les décisions essentielles.
+
+Je privilégie une approche pragmatique : **comprendre les besoins, choisir les bons outils, vérifier les résultats et produire des solutions fiables et maintenables.**
+
+### Technologies & domaines
+
+- **Développement :** JavaScript, TypeScript, Python, React, Next.js, Node.js
+- **Backend & données :** Express, SQL, MySQL, Supabase, API REST
+- **Création numérique :** UI/UX, design graphique, illustration, modélisation 3D
+- **Méthodes & outils :** Git, GitHub, Docker, développement assisté par IA, automatisation
